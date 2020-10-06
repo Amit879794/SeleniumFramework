@@ -1,0 +1,196 @@
+2018-09-04 15:31:36 INFO  ActionKeywords:61 - WebDriver initialization Successful
+2018-09-04 15:31:45 INFO  ActionKeywords:75 - URL successfully opened
+2018-09-04 15:32:20 INFO  ActionKeywords:95 - Enter the value to search successfully passed
+2018-09-04 15:32:24 INFO  ActionKeywords:134 - Click on search button to search the value successfully passed
+2018-09-04 15:32:34 INFO  ActionKeywords:134 - Click on specific mobile to buy successfully passed
+2018-09-04 15:32:39 INFO  ActionKeywords:134 - click on add to cart button successfully passed
+2018-09-04 15:32:43 INFO  ActionKeywords:171 - Browser successfully closed
+2018-09-04 15:42:30 INFO  ActionKeywords:61 - WebDriver initialization Successful
+2018-09-04 15:42:35 INFO  ActionKeywords:75 - URL successfully opened
+2018-09-04 15:42:42 INFO  ActionKeywords:95 - Enter the value to search successfully passed
+2018-09-04 15:42:47 INFO  ActionKeywords:134 - Click on search button to search the value successfully passed
+2018-09-04 15:43:23 INFO  ActionKeywords:134 - Click on specific mobile to buy successfully passed
+2018-09-04 15:43:27 FATAL ActionKeywords:139 - Unable to click the button
+2018-09-04 15:43:28 INFO  ActionKeywords:171 - Browser successfully closed
+2018-09-04 16:40:57 INFO  ActionKeywords:61 - WebDriver initialization Successful
+2018-09-04 16:41:01 INFO  ActionKeywords:75 - URL successfully opened
+2018-09-04 16:41:08 INFO  ActionKeywords:95 - Enter the value to search successfully passed
+2018-09-04 16:41:12 INFO  ActionKeywords:134 - Click on search button to search the value successfully passed
+2018-09-04 16:41:21 INFO  ActionKeywords:134 - Click on specific mobile to buy successfully passed
+2018-09-04 16:41:25 FATAL ActionKeywords:139 - Unable to click the button
+2018-09-04 16:41:26 INFO  ActionKeywords:171 - Browser successfully closed
+2018-09-05 00:50:17 INFO  ActionKeywords:62 - WebDriver initialization Successful
+2018-09-05 00:50:22 INFO  ActionKeywords:76 - URL successfully opened
+2018-09-05 00:50:31 INFO  ActionKeywords:96 - Enter the value to search successfully passed
+2018-09-05 00:50:36 INFO  ActionKeywords:135 - Click on search button to search the value successfully passed
+2018-09-05 00:50:44 INFO  ActionKeywords:135 - Click on specific mobile to buy successfully passed
+2018-09-05 00:50:46 FATAL ActionKeywords:140 - Unable to click the button
+2018-09-05 00:50:47 INFO  ActionKeywords:172 - Browser successfully closed
+2018-09-05 01:07:03 INFO  ActionKeywords:62 - WebDriver initialization Successful
+2018-09-05 01:07:09 INFO  ActionKeywords:76 - URL successfully opened
+2018-09-05 01:07:19 INFO  ActionKeywords:96 - Enter the value to search successfully passed
+2018-09-05 01:07:28 INFO  ActionKeywords:135 - Click on search button to search the value successfully passed
+2018-09-05 01:07:36 INFO  ActionKeywords:135 - Click on specific mobile to buy successfully passed
+2018-09-05 01:07:40 INFO  ActionKeywords:135 - click on add to cart button successfully passed
+2018-09-05 01:07:42 INFO  ActionKeywords:172 - Browser successfully closed
+2018-09-05 01:08:21 INFO  ActionKeywords:62 - WebDriver initialization Successful
+2018-09-05 01:08:28 INFO  ActionKeywords:76 - URL successfully opened
+2018-09-05 01:08:39 INFO  ActionKeywords:96 - Enter the value to search successfully passed
+2018-09-05 01:08:46 INFO  ActionKeywords:135 - Click on search button to search the value successfully passed
+2018-09-05 01:08:53 INFO  ActionKeywords:135 - Click on specific mobile to buy successfully passed
+2018-09-05 01:08:56 FATAL ActionKeywords:140 - Unable to click the button
+2018-09-05 01:08:57 INFO  ActionKeywords:172 - Browser successfully closed
+2018-09-05 01:15:22 INFO  ActionKeywords:62 - WebDriver initialization Successful
+2018-09-05 01:15:27 INFO  ActionKeywords:76 - URL successfully opened
+2018-09-05 01:15:37 INFO  ActionKeywords:96 - Enter the value to search successfully passed
+2018-09-05 01:15:42 INFO  ActionKeywords:135 - Click on search button to search the value successfully passed
+2018-09-05 01:15:49 INFO  ActionKeywords:135 - Click on specific mobile to buy successfully passed
+2018-09-05 01:15:50 FATAL ActionKeywords:140 - Unable to click the button
+2018-09-05 01:15:51 INFO  ActionKeywords:172 - Browser successfully closed
+2018-09-05 01:19:35 INFO  ActionKeywords:62 - WebDriver initialization Successful
+2018-09-05 01:19:40 INFO  ActionKeywords:76 - URL successfully opened
+2018-09-05 01:19:49 INFO  ActionKeywords:96 - Enter the value to search successfully passed
+2018-09-05 01:19:54 INFO  ActionKeywords:135 - Click on search button to search the value successfully passed
+2018-09-05 01:20:05 INFO  ActionKeywords:135 - Click on specific mobile to buy successfully passed
+2018-09-05 01:20:09 INFO  ActionKeywords:135 - click on add to cart button successfully passed
+2018-09-05 01:20:11 INFO  ActionKeywords:172 - Browser successfully closed
+2018-09-05 01:32:15 INFO  ActionKeywords:61 - WebDriver initialization Successful
+2018-09-05 01:32:21 INFO  ActionKeywords:75 - URL successfully opened
+2018-09-05 01:32:33 INFO  ActionKeywords:96 - Enter the value to search successfully passed
+2018-09-05 01:32:39 INFO  ActionKeywords:137 - Click on search button to search the value successfully passed
+2018-09-05 01:32:48 INFO  ActionKeywords:137 - Click on specific mobile to buy successfully passed
+2018-09-05 01:32:52 INFO  ActionKeywords:137 - click on add to cart button successfully passed
+2018-09-05 01:32:54 INFO  ActionKeywords:177 - Browser successfully closed
+2018-09-05 08:36:38 INFO  ActionKeywords:61 - WebDriver initialization Successful
+2018-09-05 08:36:43 INFO  ActionKeywords:75 - URL successfully opened
+2018-09-05 08:36:50 INFO  ActionKeywords:96 - Enter the value to search successfully passed
+2018-09-05 08:36:55 INFO  ActionKeywords:137 - Click on search button to search the value successfully passed
+2018-09-05 08:37:04 INFO  ActionKeywords:137 - Click on specific mobile to buy successfully passed
+2018-09-05 08:37:10 INFO  ActionKeywords:137 - click on add to cart button successfully passed
+2018-09-05 08:37:15 INFO  ActionKeywords:177 - Browser successfully closed
+2018-09-05 08:57:45 INFO  ActionKeywords:61 - WebDriver initialization Successful
+2018-09-05 08:57:50 INFO  ActionKeywords:75 - URL successfully opened
+2018-09-05 08:57:56 INFO  ActionKeywords:96 - Enter the value to search successfully passed
+2018-09-05 08:58:01 INFO  ActionKeywords:137 - Click on search button to search the value successfully passed
+2018-09-05 08:58:09 INFO  ActionKeywords:137 - Click on specific mobile to buy successfully passed
+2018-09-05 08:58:13 FATAL ActionKeywords:142 - Unable to click the button
+2018-09-05 08:58:14 INFO  ActionKeywords:177 - Browser successfully closed
+2018-09-05 11:08:28 INFO  ActionKeywords:61 - WebDriver initialization Successful
+2018-09-05 11:08:33 INFO  ActionKeywords:75 - URL successfully opened
+2018-09-05 11:08:40 INFO  ActionKeywords:96 - Enter the value to search successfully passed
+2018-09-05 11:08:45 INFO  ActionKeywords:137 - Click on search button to search the value successfully passed
+2018-09-05 11:08:53 INFO  ActionKeywords:137 - Click on specific mobile to buy successfully passed
+2018-09-05 11:08:56 FATAL ActionKeywords:142 - Unable to click the button
+2018-09-05 11:08:57 INFO  ActionKeywords:177 - Browser successfully closed
+2018-09-05 11:27:51 INFO  ActionKeywords:61 - WebDriver initialization Successful
+2018-09-05 11:27:56 INFO  ActionKeywords:75 - URL successfully opened
+2018-09-05 11:28:30 INFO  ActionKeywords:96 - Enter the value to search successfully passed
+2018-09-05 11:28:35 INFO  ActionKeywords:137 - Click on search button to search the value successfully passed
+2018-09-05 11:28:43 INFO  ActionKeywords:137 - Click on specific mobile to buy successfully passed
+2018-09-05 11:28:51 FATAL ActionKeywords:142 - Unable to click the button
+2018-09-05 11:28:52 INFO  ActionKeywords:177 - Browser successfully closed
+2018-09-05 12:04:51 INFO  ActionKeywords:61 - WebDriver initialization Successful
+2018-09-05 12:05:25 INFO  ActionKeywords:75 - URL successfully opened
+2018-09-05 12:05:32 INFO  ActionKeywords:96 - Enter the value to search successfully passed
+2018-09-05 12:05:38 INFO  ActionKeywords:137 - Click on search button to search the value successfully passed
+2018-09-05 12:05:49 INFO  ActionKeywords:137 - Click on specific mobile to buy successfully passed
+2018-09-05 12:06:23 INFO  ActionKeywords:137 - click on add to cart button successfully passed
+2018-09-05 12:06:27 INFO  ActionKeywords:177 - Browser successfully closed
+2018-09-05 12:09:00 INFO  ActionKeywords:60 - WebDriver initialization Successful
+2018-09-05 12:09:05 INFO  ActionKeywords:74 - URL successfully opened
+2018-09-05 12:09:12 INFO  ActionKeywords:95 - Enter the value to search successfully passed
+2018-09-05 12:09:17 INFO  ActionKeywords:136 - Click on search button to search the value successfully passed
+2018-09-05 12:09:56 INFO  ActionKeywords:136 - Click on specific mobile to buy successfully passed
+2018-09-05 12:10:01 INFO  ActionKeywords:136 - click on add to cart button successfully passed
+2018-09-05 12:10:06 INFO  ActionKeywords:176 - Browser successfully closed
+2018-09-05 12:13:26 INFO  ActionKeywords:60 - WebDriver initialization Successful
+2018-09-05 12:13:30 INFO  ActionKeywords:74 - URL successfully opened
+2018-09-05 12:13:38 INFO  ActionKeywords:95 - Enter the value to search successfully passed
+2018-09-05 12:13:43 INFO  ActionKeywords:136 - Click on search button to search the value successfully passed
+2018-09-05 12:13:52 INFO  ActionKeywords:136 - Click on specific mobile to buy successfully passed
+2018-09-05 12:13:55 FATAL ActionKeywords:141 - Unable to click the button
+2018-09-05 12:13:56 INFO  ActionKeywords:176 - Browser successfully closed
+2018-09-05 12:25:39 INFO  ActionKeywords:70 - WebDriver initialization Successful
+2018-09-05 12:25:45 INFO  ActionKeywords:84 - URL successfully opened
+2018-09-05 12:25:51 INFO  ActionKeywords:105 - Enter the value to search successfully passed
+2018-09-05 12:25:56 INFO  ActionKeywords:146 - Click on search button to search the value successfully passed
+2018-09-05 12:26:06 INFO  ActionKeywords:146 - Click on specific mobile to buy successfully passed
+2018-09-05 12:26:10 INFO  ActionKeywords:146 - click on add to cart button successfully passed
+2018-09-05 12:26:29 INFO  ActionKeywords:186 - Browser successfully closed
+2018-09-05 12:27:15 INFO  ActionKeywords:70 - WebDriver initialization Successful
+2018-09-05 12:27:20 INFO  ActionKeywords:84 - URL successfully opened
+2018-09-05 12:27:26 INFO  ActionKeywords:105 - Enter the value to search successfully passed
+2018-09-05 12:27:31 INFO  ActionKeywords:146 - Click on search button to search the value successfully passed
+2018-09-05 12:27:40 INFO  ActionKeywords:146 - Click on specific mobile to buy successfully passed
+2018-09-05 12:27:45 INFO  ActionKeywords:146 - click on add to cart button successfully passed
+2018-09-05 12:28:05 INFO  ActionKeywords:186 - Browser successfully closed
+2018-09-05 19:42:08 INFO  ActionKeywords:70 - WebDriver initialization Successful
+2018-09-05 19:42:13 INFO  ActionKeywords:84 - URL successfully opened
+2018-09-05 19:42:22 INFO  ActionKeywords:105 - Enter the value to search successfully passed
+2018-09-05 19:42:27 INFO  ActionKeywords:146 - Click on search button to search the value successfully passed
+2018-09-05 19:42:36 INFO  ActionKeywords:146 - Click on specific mobile to buy successfully passed
+2018-09-05 19:42:40 INFO  ActionKeywords:146 - click on add to cart button successfully passed
+2018-09-05 19:42:42 INFO  ActionKeywords:186 - Browser successfully closed
+2018-09-26 14:18:00 INFO  ActionKeywords:70 - WebDriver initialization Successful
+2018-09-26 14:18:07 INFO  ActionKeywords:84 - URL successfully opened
+2018-09-26 14:18:42 INFO  ActionKeywords:105 - Enter the value to search successfully passed
+2018-09-26 14:18:50 INFO  ActionKeywords:146 - Click on search button to search the value successfully passed
+2018-09-26 14:19:01 INFO  ActionKeywords:146 - Click on specific mobile to buy successfully passed
+2018-09-26 14:19:07 INFO  ActionKeywords:146 - click on add to cart button successfully passed
+2018-09-26 14:19:14 INFO  ActionKeywords:186 - Browser successfully closed
+2018-09-26 14:25:15 INFO  ActionKeywords:70 - WebDriver initialization Successful
+2018-09-26 14:25:21 INFO  ActionKeywords:84 - URL successfully opened
+2018-09-26 14:25:31 INFO  ActionKeywords:105 - Enter the value to search successfully passed
+2018-09-26 14:25:38 INFO  ActionKeywords:146 - Click on search button to search the value successfully passed
+2018-09-26 14:25:48 INFO  ActionKeywords:146 - Click on specific mobile to buy successfully passed
+2018-09-26 14:25:55 INFO  ActionKeywords:146 - click on add to cart button successfully passed
+2018-09-26 14:26:02 INFO  ActionKeywords:186 - Browser successfully closed
+2018-11-08 11:08:42 INFO  ActionKeywords:70 - WebDriver initialization Successful
+2018-11-08 11:08:46 INFO  ActionKeywords:84 - URL successfully opened
+2018-11-08 11:08:52 INFO  ActionKeywords:105 - Enter the value to search successfully passed
+2018-11-08 11:08:56 INFO  ActionKeywords:146 - Click on search button to search the value successfully passed
+2018-11-08 11:09:02 INFO  ActionKeywords:146 - Click on specific mobile to buy successfully passed
+2018-11-08 11:09:03 INFO  ActionKeywords:146 - click on add to cart button successfully passed
+2018-11-08 11:09:04 INFO  ActionKeywords:186 - Browser successfully closed
+2018-11-20 11:14:49 INFO  ActionKeywords:70 - WebDriver initialization Successful
+2018-11-20 11:14:52 INFO  ActionKeywords:84 - URL successfully opened
+2018-11-20 11:14:59 INFO  ActionKeywords:105 - Enter the value to search successfully passed
+2018-11-20 11:15:03 INFO  ActionKeywords:146 - Click on search button to search the value successfully passed
+2018-11-20 11:15:18 INFO  ActionKeywords:146 - Click on specific mobile to buy successfully passed
+2018-11-20 11:15:21 INFO  ActionKeywords:146 - click on add to cart button successfully passed
+2018-11-20 11:15:23 INFO  ActionKeywords:186 - Browser successfully closed
+2018-11-23 15:17:52 INFO  ActionKeywords:70 - WebDriver initialization Successful
+2018-11-23 15:17:55 INFO  ActionKeywords:84 - URL successfully opened
+2018-11-23 15:18:01 INFO  ActionKeywords:105 - Enter the value to search successfully passed
+2018-11-23 15:18:28 INFO  ActionKeywords:146 - Click on search button to search the value successfully passed
+2018-11-23 15:18:35 INFO  ActionKeywords:146 - Click on specific mobile to buy successfully passed
+2018-11-23 15:18:38 INFO  ActionKeywords:146 - click on add to cart button successfully passed
+2018-11-23 15:18:39 INFO  ActionKeywords:186 - Browser successfully closed
+2018-11-23 15:28:56 INFO  ActionKeywords:70 - WebDriver initialization Successful
+2018-11-23 15:28:59 INFO  ActionKeywords:84 - URL successfully opened
+2018-11-23 15:29:06 INFO  ActionKeywords:105 - Enter the value to search successfully passed
+2018-11-23 15:29:10 INFO  ActionKeywords:146 - Click on search button to search the value successfully passed
+2018-11-23 15:29:16 INFO  ActionKeywords:146 - Click on specific mobile to buy successfully passed
+2018-11-23 15:29:18 INFO  ActionKeywords:146 - click on add to cart button successfully passed
+2018-11-23 15:29:20 INFO  ActionKeywords:186 - Browser successfully closed
+2018-11-27 14:06:50 INFO  ActionKeywords:70 - WebDriver initialization Successful
+2018-11-27 14:06:53 INFO  ActionKeywords:84 - URL successfully opened
+2018-11-27 14:06:58 INFO  ActionKeywords:105 - Enter the value to search successfully passed
+2018-11-27 14:07:01 INFO  ActionKeywords:146 - Click on search button to search the value successfully passed
+2018-11-27 14:07:06 INFO  ActionKeywords:146 - Click on specific mobile to buy successfully passed
+2018-11-27 14:07:09 INFO  ActionKeywords:146 - click on add to cart button successfully passed
+2018-11-27 14:07:10 INFO  ActionKeywords:186 - Browser successfully closed
+2018-11-27 14:08:59 INFO  ActionKeywords:70 - WebDriver initialization Successful
+2018-11-27 14:09:01 INFO  ActionKeywords:84 - URL successfully opened
+2018-11-27 14:09:08 INFO  ActionKeywords:105 - Enter the value to search successfully passed
+2018-11-27 14:09:12 INFO  ActionKeywords:146 - Click on search button to search the value successfully passed
+2018-11-27 14:09:19 INFO  ActionKeywords:146 - Click on specific mobile to buy successfully passed
+2018-11-27 14:09:21 INFO  ActionKeywords:146 - click on add to cart button successfully passed
+2018-11-27 14:09:22 INFO  ActionKeywords:186 - Browser successfully closed
+2018-11-27 14:38:03 INFO  ActionKeywords:70 - WebDriver initialization Successful
+2018-11-27 14:38:06 INFO  ActionKeywords:84 - URL successfully opened
+2018-11-27 14:38:09 INFO  ActionKeywords:105 - Enter the value to search successfully passed
+2018-11-27 14:38:13 INFO  ActionKeywords:146 - Click on search button to search the value successfully passed
+2018-11-27 14:38:19 INFO  ActionKeywords:146 - Click on specific mobile to buy successfully passed
+2018-11-27 14:38:25 INFO  ActionKeywords:146 - click on add to cart button successfully passed
+2018-11-27 14:38:27 INFO  ActionKeywords:186 - Browser successfully closed
